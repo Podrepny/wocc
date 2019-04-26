@@ -10,4 +10,5 @@ chmod +x /usr/local/bin/wocc
 wocc filename
 
 example:
+
 wocc /etc/network/interfaces
