@@ -2,7 +2,8 @@
 grep without comments and add color to output
 
 # install
-vim /usr/local/bin/wocc
+cp wocc /usr/local/bin/wocc
+
 chmod +x /usr/local/bin/wocc
 
 # usage
